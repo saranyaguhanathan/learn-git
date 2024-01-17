@@ -10,3 +10,8 @@
 #10 switch to the branch "production"
 #11 code . opens code in production branch
 #12 do some changes and git add . ,git commit -m "Added few more steps" and  git push (to main)
+#13  git push --set-upstream origin production (so that u r pushing the committed files changes to the remote repo main)
+#14 after this, go to github remote repo here "learn-git"
+#15 create a new pull request
+#16 compare and merge the pull request
+#17 pull request sucessfully merged
