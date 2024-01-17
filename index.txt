@@ -1,0 +1,6 @@
+#1 Learning git "learn-git"
+#2 Creating a local repo
+#3 initialize into a git local repo 
+#4 Add package.json by npm init -y
+#5 create index.txt by touch index.txt
+#6 adding the steps to create a local repo
