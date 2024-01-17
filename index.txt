@@ -4,3 +4,9 @@
 #4 Add package.json by npm init -y
 #5 create index.txt by touch index.txt
 #6 adding the steps to create a local repo
+#7 create a remote repo(github new repository) on the same name as local here "learn-git"
+#8 follow steps listed in push to local repo (3 steps)
+#9 create a new branch named "production"
+#10 switch to the branch "production"
+#11 code . opens code in production branch
+#12 do some changes and git add . ,git commit -m "Added few more steps" and  git push (to main)
